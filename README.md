@@ -1,4 +1,4 @@
-# Links
+# Links - Icons
 
 <ol>
   <li>Feather icon: https://feathericons.com/?query=user </li>
