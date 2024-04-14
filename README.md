@@ -21,3 +21,8 @@
 <ol>
   <li>Framer Motion: https://www.framer.com/motion/</li>
 </ol>
+
+# Links - Mockup Designs
+<ol>
+  <li>Jitter: https://jitter.video/onboarding/</li>
+</ol>
