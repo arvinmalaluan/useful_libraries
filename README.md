@@ -15,3 +15,9 @@
   <li>Render: https://dashboard.render.com/</li>
   <li>Vercel: https://vercel.com/</li>
 </ol>
+
+# Links - Animations
+
+<ol>
+  <li>Framer Motion: https://www.framer.com/motion/</li>
+</ol>
