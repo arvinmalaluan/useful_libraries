@@ -14,7 +14,7 @@
   <li>Netlify: https://app.netlify.com</li>
   <li>Render: https://dashboard.render.com/</li>
   <li>Vercel: https://vercel.com/</li>
-  <li>PlantetScale</li>
+  <li>PlantetScale: https://planetscale.com</li>
   <li>CloudFlare</li>
 </ol>
 
