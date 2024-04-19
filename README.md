@@ -14,6 +14,8 @@
   <li>Netlify: https://app.netlify.com</li>
   <li>Render: https://dashboard.render.com/</li>
   <li>Vercel: https://vercel.com/</li>
+  <li>PlantetScale</li>
+  <li>CloudFlare</li>
 </ol>
 
 # Links - Animations
