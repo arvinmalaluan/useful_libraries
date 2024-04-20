@@ -30,5 +30,10 @@
 </ol>
 
 
+# Figma Extensions
+<ol>
+  <li>openstrokeicons</li>
+</ol>
+
 # Must buy!
 YuviKey
