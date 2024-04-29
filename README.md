@@ -35,6 +35,9 @@
   <li>openstrokeicons</li>
 </ol>
 
+vs code ext
+codium ai
+
 
 # Database
 <ol>
