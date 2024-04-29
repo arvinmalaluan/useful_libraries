@@ -35,5 +35,13 @@
   <li>openstrokeicons</li>
 </ol>
 
+
+# Database
+<ol>
+  <li>supabase</li>
+  <li>firebase</li>
+</ol>
+
+
 # Must buy!
 YuviKey
