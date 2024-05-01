@@ -5,6 +5,8 @@
   <li>Ionicons: https://ionic.io/ionicons </li>
   <li>Boxicons: https://boxicons.com/</li>
   <li>Remix Icons: https://remixicon.com/</li>
+  <li>MingCute Icons: https://www.mingcute.com/</li>
+  
   </ol>
 
 
