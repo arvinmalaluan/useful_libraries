@@ -49,6 +49,6 @@ codium ai
 
 
 gsap
-
+https://chatgpt.com/share/83326c01-93f1-4199-abba-f6511b49c6b4
 # Must buy!
 YuviKey
